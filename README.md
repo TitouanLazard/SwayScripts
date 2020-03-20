@@ -16,7 +16,7 @@ Then the termite windows is set as floating.
 If you run the script again it will send it in the scratchpad.
 Run it again and the window is re-invoked from the scratchpad.
 
-You can easily use the bindsym commande in sway config file to run this script with a shortcut.
+You can easily use the bindsym command in sway config file to run this script with a shortcut.
 
 ![Screenshot](screenshots/mps_youtube_sound_vis.png)
 
